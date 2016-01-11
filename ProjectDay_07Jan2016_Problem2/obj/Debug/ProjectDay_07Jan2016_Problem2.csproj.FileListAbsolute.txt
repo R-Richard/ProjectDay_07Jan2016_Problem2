@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem2\ProjectDay_07Jan2016_Problem2\bin\Debug\ProjectDay_07Jan2016_Problem2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem2\ProjectDay_07Jan2016_Problem2\bin\Debug\ProjectDay_07Jan2016_Problem2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem2\ProjectDay_07Jan2016_Problem2\bin\Debug\ProjectDay_07Jan2016_Problem2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem2\ProjectDay_07Jan2016_Problem2\obj\Debug\ProjectDay_07Jan2016_Problem2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem2\ProjectDay_07Jan2016_Problem2\obj\Debug\ProjectDay_07Jan2016_Problem2.pdb
